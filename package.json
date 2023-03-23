@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "nodejs-helloworld-image",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriel-Ortelan/nodejs-docker.git"
+  },
+  "author": "Gabriel-Ortelan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabriel-Ortelan/nodejs-docker/issues"
+  },
+  "homepage": "https://github.com/Gabriel-Ortelan/nodejs-docker#readme"
+}
