@@ -24,4 +24,4 @@ docker rm [container id]
 docker images
 
 ### Deletar a imagem
-docker rmi [id da imagem]
+docker rmi [id da imagem] 
