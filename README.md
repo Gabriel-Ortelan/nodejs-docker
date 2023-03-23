@@ -19,3 +19,9 @@ docker stop [container id]
 
 ### Deletar o container
 docker rm [container id]
+
+### Ver todas as imagens
+docker images
+
+### Deletar a imagem
+docker rmi [id da imagem]
