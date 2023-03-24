@@ -11,4 +11,5 @@ COPY ./ .
 
 EXPOSE 3000
 
-CMD ["chmod", "+x", "/usr/src/app/docker-entrypoint.sh", "npm","start"]
+CMD ["chmod", "+x", "/usr/src/app/docker-entrypoint.sh"]
+ENTRYPOINT [ "npm","start" ]
